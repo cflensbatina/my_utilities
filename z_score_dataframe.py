@@ -15,8 +15,11 @@ It also saves the unsorted main dataframe as CEFS.csv on your computer.
 Change the default emails in hidden.py and add your email password so the script will run correctly.
 Don't change z_scores.py.
 
-The fund recommendations given by this tool are meant to be informative, but you must do your own research before investing.
-The score listed on the buy dataframe is a composite of several factors.
+The default filters in this tool represent my opinions and are not recommendations or advice.
+They are meant to be informative, but you must do your own research before investing.
+Consult a financial advisor before making any investments, to best fit your situation and risk profile.
+
+The score listed on the "buy" dataframe is a composite of several factors.
 Lower scores are better, in general, but each fund is different.
 Again, do your own research before investing in any funds.
 """
