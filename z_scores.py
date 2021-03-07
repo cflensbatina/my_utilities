@@ -2,7 +2,7 @@
 """
 Created on Sat Feb 20 14:02:57 2021
 
-@author: letme
+@author: cflensbatina
 """
 # Import packages
 import urllib.request, urllib.parse, urllib.error
